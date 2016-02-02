@@ -11,7 +11,7 @@
  *  $names=array('Ted Lewis','Sue Johnson','Ray Thomas');
  * WITH MUTLIPLE STATEMENTS
  * $names=array();              //create an empty array
- * $names[0]='Ted Lewis';       //set three values in the array
+ * $names[0]='Ted JR Lewis';       //set three values in the array
  * $names[1]='Sue Jones';
  * $names[2]='Ray Thomas';
  * 
